@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cherif5291
 - 👀 I’m interested by the web developpement.
-Actually i use LARAVEL end  ANGULAR
+Actually i use LARAVEL and  ANGULAR
 - 📫 You can join me on my email cherifabdoukhadrefall3@gmail.com
 
 <!---
